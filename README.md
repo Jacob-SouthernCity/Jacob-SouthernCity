@@ -14,9 +14,9 @@ I'm now actively looking for full-time and part-time jobs and interested in join
 - 🤿 Diving
 - ♟ Gaming
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Jacob-SouthernCity)]()
-
 ---
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Jacob-SouthernCity)]()
 
 ## Skills
 
