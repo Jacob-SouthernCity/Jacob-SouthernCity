@@ -10,7 +10,7 @@
 I'm now actively looking for full-time and part-time jobs and interested in joining more game development projects. 
 
 - 🍻 CS Games & Applied Math Bachelor at [USC](https://www.usc.edu/) [May 24]
-- ⚡ C++ / Java.
+- ⚡ C++ / Java
 - 🤿 Diving
 - ♟ Gaming / Gaming / Gaming...
 
