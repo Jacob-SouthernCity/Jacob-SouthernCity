@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://jingzema@usc.edu)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/879185262599614555)
 
-### This is Jacob(Jingze) Ma, an Computer Science Master at Yale University. Welcome to my GitHub. 
+### This is Jacob(Jingze) Ma, a Master of Science in Computer Science at Yale University. Welcome to my GitHub. 
 
 I'm now actively looking for full-time and part-time jobs and interested in joining more game development projects. 
 
