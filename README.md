@@ -16,7 +16,7 @@ I'm now actively looking for full-time and part-time jobs and interested in join
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob-SouthernCity&show_icons=true&count_private=true?hide=issues,contribs&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=db2e59&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob-SouthernCity&show_icons=true&count_private=true?)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
