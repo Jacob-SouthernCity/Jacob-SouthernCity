@@ -15,8 +15,7 @@ I'm now actively looking for full-time and part-time jobs and interested in join
 - ♟ Gaming / Gaming / Gaming...
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob-SouthernCity&show_icons=true&?count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob-SouthernCity&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## Skills
 
