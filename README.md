@@ -16,7 +16,7 @@ I'm now actively looking for full-time and part-time jobs and interested in join
 - ♟ Gaming / Gaming / Gaming...
 ---
 ![Anurag's GitHub stats](https://github-readme-stats-omega-snowy-89.vercel.app/api?username=Jacob-SouthernCity&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![My PlayStation Card](https://psn-readme-card.vercel.app/api/card?psnId=Renya_Kojima)](https://github.com/Jacob-SouthernCity/psn-readme-card)
+[![My PlayStation Card](https://psn-readme-card.vercel.app/api/card?psnId=Renya_Kojima&variant=full)](https://github.com/Jacob-SouthernCity/psn-readme-card)
 
 ## Skills
 
