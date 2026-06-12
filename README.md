@@ -39,3 +39,6 @@ I'm now actively looking for full-time and part-time jobs and interested in join
 ![English](https://img.shields.io/badge/-English-black?style=flat-square)
 ![Chinese](https://img.shields.io/badge/-简体中文-black?style=flat-square)
 ![Japanese](https://img.shields.io/badge/-日本語-black?style=flat-square)
+
+## PSN Profile (Check out this [psn-readme-card](https://github.com/Jacob-SouthernCity/psn-readme-card))
+![My PlayStation Card](https://psn-readme-card.vercel.app/api/card?psnId=Renya_Kojima)
